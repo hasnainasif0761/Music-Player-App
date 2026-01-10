@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+#range::-moz-range-thumb{
+    background-color: rgb(223, 22, 22);
+    border: none;
+}
