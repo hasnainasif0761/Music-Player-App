@@ -34,7 +34,6 @@ const Home = () => {
         </div>
       </div>
 
-
       <div className='w-[50%] h-full bg-slate-500 hidden md:flex'>
 
       </div>
