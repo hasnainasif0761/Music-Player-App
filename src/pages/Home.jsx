@@ -30,7 +30,7 @@ const Home = () => {
         <div className='text-white flex justify-center items-center gap-5'>
           <CgPlayTrackPrev className='w-[28px] h-[28px]' />
           <div className='w-[50px] h-[50px] rounded-full bg-white text-black flex justify-center items-center hover:bg-gray-600 transition-all cursor-pointer'><FaPlay className='w-[20px] h-[20px]' /></div>
-          <MdSkipNext className='w-[28px] h-[28px]' />
+          <MdSkipNext className='w-[28px] h-7' />
         </div>
       </div>
 
